@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "bf5f003af4e56c2a",
+    "type": "split",
+    "children": [
+      {
+        "id": "df5845c60b5cd5ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "750dc371b77ae05a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/MybatisPlus.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4b45bc3f2e8f36a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A001-云计算平台/Api文档.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "41ac158bdef4afb7",
+    "type": "split",
+    "children": [
+      {
+        "id": "73e233c2cb98d079",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c7f37fb7e0576fb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a0bc2bf1d0109283",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "A001-云计算平台/Api文档.md"
+              }
+            }
+          },
+          {
+            "id": "21c46778d0dedd8f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1e3f57d7d995738b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 287.5
+  },
+  "right": {
+    "id": "10f325e94b8541c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "87ba46e8206b14c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "870304650db4b3da",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "A001-云计算平台/Api文档.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2ff6f76ad5b7b608",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "A001-云计算平台/Api文档.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9ba10bf5ee34e676",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:Create new canvas": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false
+    }
+  },
+  "active": "4b45bc3f2e8f36a8",
+  "lastOpenFiles": [
+    "A001-云计算平台/日志.md",
+    "A001-云计算平台/Api文档.md",
+    "Java/MybatisPlus.md",
+    "前端/原生/CSS.md",
+    "Java/Lombok.md",
+    "Java/Swagger.md",
+    "前端/Vue/Vue.md",
+    "前端/Vue/Element-ui.md",
+    "2023web技术/心得总结.md",
+    "2023web技术/竞赛笔记.md"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "readableLineLength": false,
+  "showFrontmatter": true,
+  "showLineNumber": true,
+  "rightToLeft": false,
+  "tabSize": 6,
+  "promptDelete": false,
+  "defaultViewMode": "source",
+  "attachmentFolderPath": "实现过程/ass",
+  "newLinkFormat": "relative",
+  "alwaysUpdateLinks": true,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 64
+  }
+}

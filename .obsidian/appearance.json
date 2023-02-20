@@ -1,0 +1,9 @@
+{
+  "accentColor": "#545454",
+  "theme": "moonstone",
+  "baseFontSize": 21,
+  "interfaceFontFamily": "Arial",
+  "cssTheme": "Blue Topaz",
+  "nativeMenus": false,
+  "translucency": false
+}
